@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "active": 2,
+  "active": 3,
   "forced": false,
   "disabled": [],
-  "packageUrl": "https://cdn.jsdelivr.net/gh/Kimeti/reroll@v2/packages/v2/v2.ezpkg",
-  "manifestUrl": "https://cdn.jsdelivr.net/gh/Kimeti/reroll@v2/packages/v2/manifest.json"
+  "packageUrl": "https://cdn.jsdelivr.net/gh/Kimeti/reroll@v3/packages/v3/v3.ezpkg",
+  "manifestUrl": "https://cdn.jsdelivr.net/gh/Kimeti/reroll@v3/packages/v3/manifest.json"
 }
