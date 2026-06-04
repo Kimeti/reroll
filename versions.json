@@ -21,13 +21,13 @@
       "version": 1,
       "tag": "v1",
       "fileName": "v1.ezpkg",
-      "size": 730,
+      "size": 733,
       "md5": "(sandbox demo)",
       "changelog": "沙盒端到端验证（方案 B）v1",
       "note": "publish-real-release.ts",
       "appName": "Reroll",
       "packageId": "com.kimeti.reroll.v1",
-      "createdAt": "2026-06-04T04:14:14.844Z",
+      "createdAt": "2026-06-04T05:23:41.474Z",
       "packageUrl": "https://cdn.jsdelivr.net/gh/Kimeti/reroll@v1/packages/v1/v1.ezpkg",
       "manifestUrl": "https://cdn.jsdelivr.net/gh/Kimeti/reroll@v1/packages/v1/manifest.json"
     }
