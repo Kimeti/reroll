@@ -3,6 +3,6 @@
   "active": 2,
   "forced": false,
   "disabled": [],
-  "packageUrl": "https://raw.githubusercontent.com/Kimeti/reroll/v2/packages/v2/v2.ezpkg",
-  "manifestUrl": "https://raw.githubusercontent.com/Kimeti/reroll/v2/packages/v2/manifest.json"
+  "packageUrl": "https://cdn.jsdelivr.net/gh/Kimeti/reroll@v2/packages/v2/v2.ezpkg",
+  "manifestUrl": "https://cdn.jsdelivr.net/gh/Kimeti/reroll@v2/packages/v2/manifest.json"
 }
