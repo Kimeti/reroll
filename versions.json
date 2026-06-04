@@ -4,6 +4,20 @@
   "packageId": "com.kimeti.reroll.v1",
   "versions": [
     {
+      "version": 2,
+      "tag": "v2",
+      "fileName": "v2.ezpkg",
+      "size": 789,
+      "md5": "(sandbox demo)",
+      "changelog": "沙盒端到端验证（方案 B）v2",
+      "note": "publish-real-release.ts",
+      "appName": "Reroll",
+      "packageId": "com.kimeti.reroll.v1",
+      "createdAt": "2026-06-04T04:14:23.172Z",
+      "packageUrl": "https://cdn.jsdelivr.net/gh/Kimeti/reroll@v2/packages/v2/v2.ezpkg",
+      "manifestUrl": "https://cdn.jsdelivr.net/gh/Kimeti/reroll@v2/packages/v2/manifest.json"
+    },
+    {
       "version": 1,
       "tag": "v1",
       "fileName": "v1.ezpkg",
